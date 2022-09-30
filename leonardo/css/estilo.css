@@ -1,0 +1,42 @@
+#cargando {
+    display: none;
+}
+.imglog{
+    width: 90px;
+    height: 90px;
+    border-radius: 60%;
+    border: solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.nav{
+    width: 100%;
+    display: flex;
+    background-image: url(https://img.lovepik.com/background/20211021/large/lovepik-cool-line-technology-banner-background-image_400112106.jpg);
+    align-items:center;
+    border: 5px solid darkslateblue;
+
+}
+
+li{ 
+ 
+    text-align: center;
+    border-radius: 10px;
+    border: solid slateblue;
+    list-style: none;
+    color: darkblue;
+    font-weight: bold;
+    background-color: lightblue;
+    font-size: 20px;
+}
+.menu{
+    width:50%;
+}
+body   {
+    background-size: 100% 100%;
+    background-image: url(https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/08/fondos-pantalla-4k.jpg?itok=bqjWl1Ct);
+}
+.from1  {
+    background:rgba(75,87,101,.9)
+}
